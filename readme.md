@@ -22,7 +22,7 @@
 Open your terminal and type in
 
 ```sh
-$ git clone https://github.com/sitowebveloce/javascript-unsplash-photo-search.git
+$ git clone https://github.com/alexpaper/javascript-unsplash-photo-search.git
 $ cd java...
 open index.html
 ```
